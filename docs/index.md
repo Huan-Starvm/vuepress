@@ -1,5 +1,4 @@
 ---
-home: false
 layout: Redirect
 redirect: /docs/web-hosting.html
 ---
