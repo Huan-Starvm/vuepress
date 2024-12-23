@@ -57,6 +57,5 @@ EasyPanel和MNBT为多个用户的网站共享同一台服务器的环境资源�
 [指南 > 介绍](/zh/guide/introduction.md)  
 [配置参考 > markdown.links](/zh/reference/config.md#links)
 
-<!-- URL -->
 
-[GitHub](https://github.com)
+[在GitHub上修改此页面](https://github.com/Huan-Starvm/vuepress)
