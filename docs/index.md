@@ -1,7 +1,7 @@
 ---
-home: true
+home: false
 title: 首页
-heroImage: ./images/logo.png
+heroImage: https://cloud.starvm.cn/favicon.ico
 actions:
   - text: 开始你的无脑阅读
     link: /docs/web-hosting.html
